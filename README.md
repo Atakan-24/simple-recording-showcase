@@ -41,9 +41,29 @@ I have not yet measured memory and CPU during a long recording or while transcri
 
 Swift and AppKit, ScreenCaptureKit, Vision (OCR), mlx-whisper, ffmpeg, and the Model Context Protocol.
 
-## Screenshots and demo video
+## Screenshots
 
-Coming soon.
+The interface is shown in German. English is available in the settings. The screenshots come from a demo mode of the app that makes its own windows capturable; no real recording was running.
+
+![Main window](images/01-main-window.png)
+
+![Settings](images/02-settings.png)
+
+**Recording bar** in three styles (line, dot, color), recording and paused:
+
+![Recording bar styles](images/03-recording-bar-styles.png)
+
+![Quality and storage](images/04-quality-and-storage.png)
+
+![Camera bubble and bar](images/05-camera-and-bar.png)
+
+![Countdown, shortcuts and Dock](images/06-shortcuts-and-dock.png)
+
+![MCP for Claude and Codex](images/07-mcp.png)
+
+## Video
+
+[Walkthrough (34 s, MP4)](video/walkthrough.mp4) is a slideshow of the screenshots above with captions. It is **not** a live screen recording. A live demo is still to come.
 
 ## License
 
